@@ -1,9 +1,4 @@
 
-    <marquee behavior="scroll" direction="left" loop="200" scrollbar-3dlight-color="20">
-
-     <p>SELAMAT DATANG WEBSITE SAGIRI</p>
-
-    </marquee>
 # Whatsapp-Botto-Re
 
 > A whatsapp bot made using open-wa/wa-automate-nodejs library

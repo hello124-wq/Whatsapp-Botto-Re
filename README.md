@@ -1,5 +1,4 @@
 <div>
-<html>
  <head></head>
  <body> 
   <table border="2"> 
@@ -25,7 +24,6 @@
    </tbody>
   </table> 
  </body>
-</html>
 # Whatsapp-Botto-Re
 
 > A whatsapp bot made using open-wa/wa-automate-nodejs library

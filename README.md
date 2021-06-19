@@ -25,7 +25,7 @@
    </tbody>
   </table> 
  </body>
-</html><div class="separator"><p style="margin-left: 1em; margin-right: 1em;"><img alt="RIOGANZ" height="350" src="https://media.tenor.com/images/f7a941a4e122041e13d06a9cd08cc278/tenor.gif" width="598" /></p></div></div>
+</html>
 # Whatsapp-Botto-Re
 
 > A whatsapp bot made using open-wa/wa-automate-nodejs library
